@@ -21,6 +21,8 @@ debug.keystore
 *.mp3
 *.log
 *.png
-# Except logo
+# Except logo and assets
 !app/src/main/res/drawable/app_logo.png
 !app/src/main/res/drawable/signal_app_logo_new.png
+!assets/images/*.png
+
