@@ -1,0 +1,6 @@
+{
+  "name": "Signal",
+  "description": "Anti-slop Linear-style industrial workbench for video monitoring and playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

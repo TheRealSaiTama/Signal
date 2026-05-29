@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Sharp single Cyan audio waveform peak -->
+    <!-- Positioned within the 66dp safe zone (between y=21 and y=87) -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 22,54 L 38,54 L 54,26 L 70,82 L 86,54" />
+</vector>

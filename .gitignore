@@ -1,0 +1,26 @@
+*.iml
+.gradle
+.kotlin
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.env
+debug.keystore
+*.wav
+*.m4a
+*.mp3
+*.log
+*.png
+# Except logo
+!app/src/main/res/drawable/app_logo.png
+!app/src/main/res/drawable/signal_app_logo_new.png
